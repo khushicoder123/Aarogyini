@@ -24,6 +24,8 @@ The period tracker helps women monitor their menstrual cycles, enabling them to 
 
 ### Mental Health Chatbot
 Recognizing the prevalence of depression among women, Aarogyini offers a mental health chatbot. This chatbot engages in conversations with users, providing a comforting and supportive interaction similar to talking to a friend.
+![image](https://github.com/khushicoder123/Aarogyini/assets/115283596/430ddc98-2317-4766-93e2-d0fd0465ce56)
+
 
 ## User Roles
 
